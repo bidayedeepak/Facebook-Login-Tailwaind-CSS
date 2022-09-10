@@ -1,6 +1,8 @@
 # Facebook-Login-Tailwaind-CSS
 Facebook Login Page : HTML | Tailwaind CSS
 
+Folder : TailWindCSS Files.
+
 Instructions :
 1. Open folder with microsoft Visual Studio Code.
 2. Open terminal and install nodeJS NPM files using bellow commands.
@@ -21,3 +23,6 @@ Content :
   6. Add "start" : "vite" to your scripts in package.json.
   7. Run npm run start to command to start a dev server.
     
+ Folder : TailWindCSS Build.
+ 1. Open folder with microsoft Visual Studio Code.
+ 2. Open index.html file in any browser.
