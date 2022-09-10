@@ -4,7 +4,9 @@ Facebook Login Page : HTML | Tailwaind CSS
 Instructions :
 1. Open folder with microsoft Visual Studio Code.
 2. Open terminal and install nodeJS NPM files using bellow commands.
+
 Commands :
+
   1. npm init -y //This initializes the directory as a NodeJs Project.
   2. npm install -D tailwindcss postcss autoprefixer vite //installs required packages.
   3. npx tailwindcss init -p.
