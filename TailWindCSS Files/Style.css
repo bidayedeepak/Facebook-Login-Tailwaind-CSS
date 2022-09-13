@@ -75,7 +75,7 @@ a:active {
   transform: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 360px) {
   .modal-content {
     padding: 1rem 1rem;
     width: 20rem;
